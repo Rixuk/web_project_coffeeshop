@@ -9,3 +9,7 @@ Se usó la semántica apropiada en HTML para darle un buen formato al proyecto, 
 Se usaron algunos pseudo-elementos como el placeholder para darles estilo y agregar unas funciones específicas a algunos elementos HTML.
 Para CSS se usó el posicionamiento además de importar bloques para estructurar de mejor manera el proyecto.
 Se creó una nueva carpeta llamada "blocks" en la cual se fueron agregando cada uno de los bloques que componen el proyecto en CSS
+
+=========================================================================
+Link to the GitHub site:
+https://rixuk.github.io/web_project_coffeeshop/
